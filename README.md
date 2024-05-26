@@ -4,7 +4,9 @@ Kristijan Przevski 213236
 
 ![Untitled Diagram drawio (3)](https://github.com/Przevskik/SI_2024_lab2_213236/assets/166219188/bd1fb57e-9ef3-451f-8e44-0c0713e694ca)
 
+
 3. Цикломатската комплексност ја пресметав по формулата бр.ребра - бр.јазли + 2 па се добива 31-23+2=10. Цикломатската комплексност е 10.
+
 
 4. Тест случаи според Every Branch:
    - Прв кога allitems=null (листата е празна) => Exception (allItems list can't be null!)
